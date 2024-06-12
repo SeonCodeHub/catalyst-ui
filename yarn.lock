@@ -2682,12 +2682,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mantine/hooks@npm:7.6.1":
-  version: 7.6.1
-  resolution: "@mantine/hooks@npm:7.6.1"
+"@mantine/hooks@npm:^7.7.0":
+  version: 7.7.0
+  resolution: "@mantine/hooks@npm:7.7.0"
   peerDependencies:
     react: ^18.2.0
-  checksum: 10c0/89f9de0b26e7bddd5969ebf1e1c34072729c5734181d58dc954076f25541a4582a9b9ce68d25d96e1c96523f5cd25df7039d4ac6228894bcbcf0fefe50482628
+  checksum: 10c0/eadf0dc8e702a0c2e255bb8116ac9cc4da05b69f9895e29af1940a1e04eb752367062262cf17171fd2f18c3f7761618a2eb7e930e88a238db008c2f6892c0390
   languageName: node
   linkType: hard
 
@@ -4594,21 +4594,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tabler/icons-react@npm:^3.0.0":
-  version: 3.0.0
-  resolution: "@tabler/icons-react@npm:3.0.0"
+"@tabler/icons-react@npm:^3.1.0":
+  version: 3.1.0
+  resolution: "@tabler/icons-react@npm:3.1.0"
   dependencies:
-    "@tabler/icons": "npm:3.0.0"
+    "@tabler/icons": "npm:3.1.0"
   peerDependencies:
-    react: ^16.5.1 || ^17.0.0 || ^18.0.0
-  checksum: 10c0/2d8f3979bd8d493f8b16096623f2872bd47bd03cd0541cf54d7081567c8de9d8f835894ff94758cd447b2be6ca44c26ad69d6b0f6dd90921783c6ee3a4fb3165
+    react: ">= 16"
+  checksum: 10c0/17a7972fe3ad1bc490d7e034407373d8346cad8788def68fc59e55be18501e45d958c40589f993ebcf04ac190884905b76c7d5dadd1cdffa36845e07d2393ef8
   languageName: node
   linkType: hard
 
-"@tabler/icons@npm:3.0.0":
-  version: 3.0.0
-  resolution: "@tabler/icons@npm:3.0.0"
-  checksum: 10c0/0edd4bd28ccb7bc2f8bc61ca5c1a94f0abf7d32304214dece9de4c4a999e48f54d5fe772d6e63b6e074a3ebcb1e16fdd9f1e6c5ca4d50d3e5ffde3929cf7519f
+"@tabler/icons@npm:3.1.0":
+  version: 3.1.0
+  resolution: "@tabler/icons@npm:3.1.0"
+  checksum: 10c0/4c3ad1df8d58f126567ea3e2e9a5c59f8e4ecb6ad61d211652f029ad3d5aa721dedf925aa729c0190b552c2fd7922b3eee8eabea3e239273aa852261b74fe44b
   languageName: node
   linkType: hard
 
@@ -11898,7 +11898,7 @@ __metadata:
   dependencies:
     "@babel/core": "npm:^7.24.0"
     "@mantine/core": "npm:7.6.1"
-    "@mantine/hooks": "npm:7.6.1"
+    "@mantine/hooks": "npm:^7.7.0"
     "@next/bundle-analyzer": "npm:^14.1.3"
     "@next/eslint-plugin-next": "npm:^14.1.3"
     "@storybook/addon-essentials": "npm:^8.0.0"
@@ -11906,7 +11906,7 @@ __metadata:
     "@storybook/blocks": "npm:^8.0.0"
     "@storybook/nextjs": "npm:^8.0.0"
     "@storybook/react": "npm:^8.0.0"
-    "@tabler/icons-react": "npm:^3.0.0"
+    "@tabler/icons-react": "npm:^3.1.0"
     "@testing-library/dom": "npm:^9.3.4"
     "@testing-library/jest-dom": "npm:^6.4.2"
     "@testing-library/react": "npm:^14.2.1"
